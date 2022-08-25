@@ -1,18 +1,3 @@
-<style
-  type="text/css">
-
-body {
-    font-family: monospace;
-    background-color: #f0f6f0;
-    color: #222323;
-    font-size: 20px;
-}
-img {
-    border: 5px solid black;
-}
-
-</style>
-
 
 SpaceBun Blog Space
 =========
@@ -61,4 +46,29 @@ img {
 <br />
 <h3>This is the CSS code I wrote to style my markdown page.</h3>
 ```
+<h3>Git Commands used to Updated GitHub from GitPod</h3>
+
+```
+git add [filename]
+git commit -m "description of changes"
+git push
+```
+
+
+<style
+  type="text/css">
+
+body {
+    font-family: monospace;
+    background-color: #f0f6f0;
+    color: #222323;
+    font-size: 20px;
+}
+img {
+    border: 5px solid black;
+}
+
+</style>
+
+
 
