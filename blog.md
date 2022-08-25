@@ -55,9 +55,10 @@ git push
 ```
 
 
-<style
-  type="text/css">
+<style type="text/css">
 
+html{}
+    
 body {
     font-family: monospace;
     background-color: #f0f6f0;
