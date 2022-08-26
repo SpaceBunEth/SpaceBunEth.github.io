@@ -52,8 +52,8 @@ git add [filename]
 git commit -m "description of changes"
 git push
 ```
-###### More 8-bit puter art UwU
-![8 bit puter art](images/8-bit computers.png)
+###### More 8-bit puter art (๑╹ᆺ╹) 
+![8 bit puter art](images/8-bit_computers.png)
 
 <style type="text/css">
 
