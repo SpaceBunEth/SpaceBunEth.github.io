@@ -12,7 +12,7 @@ SpaceBun Blog Space
     > I'm most excited to learn about JS Framework React, to me that was the main incentive to join AwesomeInk's Bootcamp. My goal is to understand and develop artistic and dynamic webpages for users to enjoy.<br /><br />
 
 - What is something about you that can only be learned by reading this blog?<br />
-    > I'm not motivated by money so it takes alot to motivate me.<br /><br />
+    > Our global monetary and financial system is collabsing Whoops must be a typo<br /><br />
 
 <br />
 
