@@ -45,7 +45,7 @@ img {
 <br />
 <h3>This is the CSS code I wrote to style my markdown page.</h3>
 ```
-<h3>Git Commands used to Updated GitHub from GitPod</h3>
+<h3>Git Commands used to Update GitHub from GitPod</h3>
 
 ```
 git add [filename]
