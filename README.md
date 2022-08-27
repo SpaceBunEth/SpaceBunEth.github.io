@@ -1,1 +1,1 @@
-![header](images/github_banner.png)
+![header](images/github_banner_v2.png)
