@@ -1,4 +1,4 @@
-
+![header](images/github_banner.png)
 SpaceBun Blog Space
 =========
 
@@ -32,9 +32,9 @@ body {
     color: #222323;
     font-size: 20px;
 }
-img {
+<!-- img {
     border: 5px solid black;
-}
+} -->
 
 </style>
 ```
@@ -58,14 +58,14 @@ git push
 <style type="text/css">
 
 body {
-    font-family: monospace;
+    font-family: monospace !important; 
     background-color: #f0f6f0;
     color: #222323;
     font-size: 20px;
 }
-img {
+/* img {
     border: 5px solid black;
-}
+} */
 
 </style>
 
