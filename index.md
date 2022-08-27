@@ -1,6 +1,5 @@
 ![header](images/github_banner_v2-1.png)
-
-#SpaceBun Blog Space
+# SpaceBun Blog Space
 
 
 ###### Bee boo boo bop *Old puter noises 
