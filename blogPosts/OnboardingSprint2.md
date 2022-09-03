@@ -30,7 +30,7 @@ If you take a look at the images on this blog post you see they all have somethi
 > What's cool about the color palette?<br />
 
 It was created using a new <em>technique</em> I found to generate limited color palettes. `Blog Coming Soon!`<br />
-> It's probably easy to tell that I enjoy making 8-bit art. One of the cool aspects of making 8-bit art is you can limit yourself to current color paletts ranging anywhere from 2 colors to &#8734; !
+> It's probably easy to tell that I enjoy making 8-bit art. One of the cool aspects of making 8-bit art is you can limit yourself to certain color paletts ranging anywhere from 2 colors to &#8734; !
 
 I won't *git* into how I made the pallete in this blog. But for those who wish to know more and who wish to even create art with this palette. You can download the 8-color Palette here: [Download Pallete](https://lospec.com/palette-list/eddie-munson#comment-23238)
 ### BUT WAIT! Stranger Things Season 4 Spolier Alert!
