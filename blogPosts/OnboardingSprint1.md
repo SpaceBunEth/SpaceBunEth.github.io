@@ -1,23 +1,10 @@
-![header](images/github_banner_v2-1.png)
-
----
-# SpaceBun Blog Space 
-
-## List of Blogs Links Below
-
-1. Onboarding Sprint 1
-    - [Aug 26, 2022](blogPosts/OnboardingSprint1.md)
-2. Onboarding Sprint 2
-    - [Sep 2, 2022](blogPosts/OnboardingSprint2.md)
-
----
-###### This blog was created by SPACE BUN (๑╹ᆺ╹) 
-
-<!-- ###### Bee boo boo bop *Old puter noises 
-![bmo pc](images/Sprite1.png) -->
+![header](../images/github_banner_v2-1.png)
+# SpaceBun Blog Space
 
 
-<!-- ## Q & A 
+###### Bee boo boo bop *Old puter noises 
+![bmo pc](../images/Sprite1.png)
+## Q & A 
 - Was your first week what you expected? Why? Why not?<br />
     > A lot of reading for sure, and definitely a struggle to manage time and learning with the given time frame. But not so bad.<br /><br />
     
@@ -31,7 +18,7 @@
 
 ###### Friendly Froggy Frend
 
-![Apu Froggy JS React Logo](images/React_Frog.png)
+![Apu Froggy JS React Logo](../images/React_Frog.png)
 <br />
 <h3>This is the CSS code I wrote to style my markdown page.</h3>
 <br />
@@ -66,7 +53,7 @@ git commit -m "description of changes"
 git push
 ```
 ###### More 8-bit puter art (๑╹ᆺ╹) 
-![8 bit puter art](images/8-bit_computers.png)
+![8 bit puter art](../images/8-bit_computers.png)
 
 <style type="text/css">
 
@@ -83,4 +70,3 @@ body {
 </style>
 
 
- -->
