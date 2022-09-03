@@ -1,6 +1,6 @@
 ![header](../images/github_banner_v2-1.png)
-# SpaceBun Blog Space
-
+# Onboarding Sprint 1
+###### Aug 26, 2022
 
 ###### Bee boo boo bop *Old puter noises 
 ![bmo pc](../images/Sprite1.png)
