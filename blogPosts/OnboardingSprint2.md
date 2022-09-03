@@ -45,9 +45,6 @@ If you don't wish to see any ST4 spoliers here's a download link to gimp file (G
     color: #202f1d;
   } 
   
-  img {
-    background-color: #fff0a7;
-  }
 </style>
 
 
