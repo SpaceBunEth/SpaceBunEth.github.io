@@ -37,6 +37,19 @@ I won't *git* into how I made the pallete in this blog. But for those who wish t
 If you don't wish to see any ST4 spoliers here's a download link to gimp file (GPL) color palette.<br />
 [GPL Color Pallete Download](https://lospec.com/palette-list/eddie-munson.gpl)
 
+<style type="text/css"> 
+  
+  body { 
+    background-color: linear-gradient(#fff0a7, #cae7ba);
+    color: #202f1d;
+  } 
+  
+  img { 
+    border: 5px solid #202f1d; 
+  }
+  
+</style>
+
 
 
 
