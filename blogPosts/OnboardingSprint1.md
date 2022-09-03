@@ -1,9 +1,9 @@
-![header](images/github_banner_v2-1.png)
+![header](../images/github_banner_v2-1.png)
 # SpaceBun Blog Space
 
 
 ###### Bee boo boo bop *Old puter noises 
-![bmo pc](images/Sprite1.png)
+![bmo pc](../images/Sprite1.png)
 ## Q & A 
 - Was your first week what you expected? Why? Why not?<br />
     > A lot of reading for sure, and definitely a struggle to manage time and learning with the given time frame. But not so bad.<br /><br />
@@ -18,7 +18,7 @@
 
 ###### Friendly Froggy Frend
 
-![Apu Froggy JS React Logo](images/React_Frog.png)
+![Apu Froggy JS React Logo](../images/React_Frog.png)
 <br />
 <h3>This is the CSS code I wrote to style my markdown page.</h3>
 <br />
@@ -53,7 +53,7 @@ git commit -m "description of changes"
 git push
 ```
 ###### More 8-bit puter art (๑╹ᆺ╹) 
-![8 bit puter art](images/8-bit_computers.png)
+![8 bit puter art](../images/8-bit_computers.png)
 
 <style type="text/css">
 
