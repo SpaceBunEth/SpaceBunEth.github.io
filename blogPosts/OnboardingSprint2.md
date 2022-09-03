@@ -1,4 +1,4 @@
-![Banner-V3](https://github.com/SpaceBunEth/spacebuneth/blob/fba216c9049f5fc2a27db2cb358588f8cf85f5c0/banners/github_banner_v3.png)
+![Banner-V3](../images/github_banner_v3.png)
 
 # Onboarding Sprint 2
 ###### Wow Much Color! *static white noise
@@ -32,7 +32,7 @@ If you take a look at the images on this blog post you see they all have somethi
 It was created using a new <em>technique</em> I found to generate limited color palettes. `Blog Coming Soon!`<br />
 > It's probably easy to tell that I enjoy making 8-bit art. One of the cool aspects of making 8-bit art is you can limit yourself to current color paletts ranging anywhere from 2 colors to &#8734; !
 
-I won't *git* into how I made the pallete in this blog. But for those who wish to know more and who wish to even create art with palette. You can download the 8-color Palette here: [Download Pallete](https://lospec.com/palette-list/eddie-munson#comment-23238)
+I won't *git* into how I made the pallete in this blog. But for those who wish to know more and who wish to even create art with this palette. You can download the 8-color Palette here: [Download Pallete](https://lospec.com/palette-list/eddie-munson#comment-23238)
 ### BUT WAIT! Stranger Things Season 4 Spolier Alert!
 If you don't wish to see any ST4 spoliers here's a download link to gimp file (GPL) color palette.<br />
 [GPL Color Pallete Download](https://lospec.com/palette-list/eddie-munson.gpl)
