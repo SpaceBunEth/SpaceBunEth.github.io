@@ -20,6 +20,7 @@
 > - Am I following the principles of being a Pragmatic Programmer?
 > - Cry
 > - Use Stock Overflow
+
 ---
 ## Art Things I did!
 ###### Hey these look like minecraft flowers! *beep boop
