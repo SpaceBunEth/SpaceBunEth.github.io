@@ -1,4 +1,4 @@
-![header](images/github_banner_v2-1.png)
+![header](images/spacebunblog_banner.png)
 
 ---
 # SpaceBun Blog Space 

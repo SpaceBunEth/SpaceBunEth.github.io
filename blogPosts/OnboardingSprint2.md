@@ -1,4 +1,4 @@
-![Banner-V3](https://github.com/SpaceBunEth/spacebuneth/blob/fba216c9049f5fc2a27db2cb358588f8cf85f5c0/banners/github_banner_v3.png)
+![Banner-V3](../images/github_banner_v3.png)
 
 # Onboarding Sprint 2
 ###### Wow Much Color! *static white noise
@@ -20,6 +20,7 @@
 > - Am I following the principles of being a Pragmatic Programmer?
 > - Cry
 > - Use Stock Overflow
+
 ---
 ## Art Things I did!
 ###### Hey these look like minecraft flowers! *beep boop
@@ -29,12 +30,22 @@ If you take a look at the images on this blog post you see they all have somethi
 > What's cool about the color palette?<br />
 
 It was created using a new <em>technique</em> I found to generate limited color palettes. `Blog Coming Soon!`<br />
-> It's probably easy to tell that I enjoy making 8-bit art. One of the cool aspects of making 8-bit art is you can limit yourself to current color paletts ranging anywhere from 2 colors to &#8734; !
+> It's probably easy to tell that I enjoy making 8-bit art. One of the cool aspects of making 8-bit art is you can limit yourself to certain color paletts ranging anywhere from 2 colors to &#8734; !
 
-I won't *git* into how I made the pallete in this blog. But for those who wish to know more and who wish to even create art with palette. You can download the 8-color Palette here: [Download Pallete](https://lospec.com/palette-list/eddie-munson#comment-23238)
+I won't *git* into how I made the pallete in this blog. But for those who wish to know more and who wish to even create art with this palette. You can download the 8-color Palette here: [Download Pallete](https://lospec.com/palette-list/eddie-munson#comment-23238)
 ### BUT WAIT! Stranger Things Season 4 Spolier Alert!
 If you don't wish to see any ST4 spoliers here's a download link to gimp file (GPL) color palette.<br />
 [GPL Color Pallete Download](https://lospec.com/palette-list/eddie-munson.gpl)
+
+<style type="text/css"> 
+  
+  body { 
+    /* background-color: linear-gradient(#fff0a7, #cae7ba); */
+    background-color: #fff0a7;
+    color: #202f1d;
+  } 
+  
+</style>
 
 
 
