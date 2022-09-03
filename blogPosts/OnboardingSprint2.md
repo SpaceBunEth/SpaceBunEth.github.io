@@ -40,13 +40,11 @@ If you don't wish to see any ST4 spoliers here's a download link to gimp file (G
 <style type="text/css"> 
   
   body { 
-    background-color: linear-gradient(#fff0a7, #cae7ba);
+    /* background-color: linear-gradient(#fff0a7, #cae7ba); */
+    background-color: #fff0a7;
     color: #202f1d;
   } 
   
-  img { 
-    border: 5px solid #202f1d; 
-  }
   
 </style>
 
