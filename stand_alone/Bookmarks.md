@@ -21,27 +21,37 @@
     - [Most Often Used Git Commands](https://drive.google.com/file/d/12H7onQP-fQxx8g5M7vRYR6iDdQNY3VBf/view)
     - [Github Basic writing and formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
     - [Markdown Cheat Sheet](https://drive.google.com/file/d/13hyDcwxhmx_Yzhkdqs985BA5KhXcUY7c/view)
+
 ### Debug
 - - NA
+
 ### Measure
 - - NA
 
 ---
+
 ## Onboarding Sprint 2
+
 ### Learn
 1. #### Intro to HTML
     - [MDN HTML - References](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference)
 2. #### Intro to CSS
     - [MDN CSS - Reference](https://developer.mozilla.org/en-US/docs/Web/CSS)
+
 ### Critical Thinking
 - - NA
+
 ### Build
 - - NA
+
 ### Debug
+
 1. #### DevTools
     - [Client-side tooling overview](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Understanding_client-side_tools/Overview)
     - [Chrome DevTools](https://developer.chrome.com/docs/devtools/)
+   
 ---
+
 ## Onboarding Sprint 3
 ### Learn
 1. #### Building Blocks of JavaScript: Part 1
