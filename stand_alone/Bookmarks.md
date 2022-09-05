@@ -55,6 +55,7 @@
 ## Onboarding Sprint 3
 ### Learn
 1. #### Building Blocks of JavaScript: Part 1
+- - [ MDN JavaScript Guide and Documentation](https://developer.mozilla.org/en-US/docs/Learn/JavaScript)
 
 
 
