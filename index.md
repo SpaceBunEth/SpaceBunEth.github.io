@@ -10,7 +10,9 @@
 2. Onboarding Sprint 2
     - [Sep 2, 2022](blogPosts/OnboardingSprint2.md)
 ---
+
 [Bookmark Links](stand_alone/Bookmarks.md)
+
 ---
 ###### This blog was created by SPACE BUN (๑╹ᆺ╹) 
 
