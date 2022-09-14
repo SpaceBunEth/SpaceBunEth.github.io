@@ -10,7 +10,7 @@
 2. Onboarding Sprint 2
     - [Sep 2, 2022](blogPosts/OnboardingSprint2.md)
 3. Onboarding Sprint 3
-    - [Sep 9, 2022](blogPost/OnboardingSprint3.md)
+    - [Sep 9, 2022](blogPosts/OnboardingSprint3.md)
     
 ---
 
