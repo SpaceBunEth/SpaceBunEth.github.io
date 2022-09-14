@@ -1,6 +1,9 @@
-![Banner-V3](../images/github_banner_v3.png)
+![Banner-V3](/images/spacebunblog_banner_V4.png)
 
 # Onboarding Sprint 3
+
+###### *Beepouuu Errrr Uhhhhh Dystopian WasteLand Vibes
+![BMO_PC_V3_COLOR](/images/bmo_v3.png)
 
 ## Q & A
 
@@ -38,15 +41,16 @@
 1. What do we want to keep doing?
     > I want to keep learning and growing my skills as a developer.
 2. What do we want to stop doing?
-    > I want to stop second guessing myself and my abilities. To stand confidintly in my desisions despite if I am right or wrong. To know when it is better to lead and when it is better to be led. To trust, in myself. 
+    > I want to stop second guessing myself and my abilities. To stand confidintly in my desisions. To shed embarrassment and ask for help when I need it.
 3. What do we want to write into our DNA and do forever?
     > Healthy habits, not just with programming but with all aspects of life.
 4. What do we want to tell our "prior to Bootcamp" self?
-    > Try not to think so much and just do it.
+    > Don't trip so hard on wanting to know all the answers.
 
 <hr>
 
 ### SideNote:
 ###### Sep 11, 2022
-Recently moved in with some loved ones. Their closer to the city and live near the bootcamp. It's not the first time I've lived in/ near a city. Last year I was in Nashville, the year before that just outside of Louisville. I can't say I enjoy moving too much, but at the same time I find myself not really wanting to stay in the same spot for too long either. I think that's what's cool about the digital age. No matter where I go my ditail belongings are a connection away. Sad in a dystopian way, a true digital nomad, but conforting in a way to have something familiar, always at my figure tips. With a world that seems to change day to day, hour by hour, minute by minute. Is it so bad to have alittle piece of ditial sanctuary?
+Recently moved in with some loved ones. Their closer to the city and live near the bootcamp. It's not the first time I've lived in/ near a city. Last year I was in Nashville, the year before that just outside of Louisville. I can't say I enjoy moving too much, but at the same time I find myself not really wanting to stay in the same spot for too long either. I think that's what's cool about the digital age. No matter where I go, my ditail belongings are a connection away. Sad in a dystopian way, a true digital nomad, but conforting in a way to have something familiar, always at my figure tips. With a world that seems to change day to day, hour by hour, minute by minute. Is it so bad to have alittle piece of ditial sanctuary?
 ###### Continues Next Blog
+
