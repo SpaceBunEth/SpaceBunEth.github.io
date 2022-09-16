@@ -52,7 +52,7 @@
 ### SideNote:
 ###### Sep 11, 2022
 Recently moved in with some loved ones. Their closer to the city and live near the bootcamp. It's not the first time I've lived in/ near a city. Last year I was in Nashville, the year before that just outside of Louisville. I can't say I enjoy moving too much, but at the same time I find myself not really wanting to stay in the same spot for too long either. I think that's what's cool about the digital age. No matter where I go, my ditail belongings are a connection away. Sad in a dystopian way, a true digital nomad, but conforting in a way to have something familiar, always at my figure tips. With a world that seems to change day to day, hour by hour, minute by minute. Is it so bad to have alittle piece of ditial sanctuary?
-###### Continues Next Blog
+###### [Continues Next Blog](/blogPosts/OnboardingSprint4.md)
 
 <style>
 body {
