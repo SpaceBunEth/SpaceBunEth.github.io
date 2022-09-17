@@ -9,7 +9,7 @@
 
 ###### Subjecting Josh to my doomer hot takes
 ### Creative Writing 
-The internet is a hell-hole of humanity's most depraved desires self-reflected in form a black mirrored digital hell matrix. But GOD DAMN is it fun. [Welcome to the Internet](https://youtu.be/k1BneeJTDcU) Is the best representation of what the internet holds today. How is this information shaping our world? America might have been the top cultural melting-pot for a period of time. However what happens when our World's cultures expand to the limitless possiblities of the internet? How does this affect our youth, who seem to be far more literate with current social technologies then my peers. Peers that have grown up at the start of the digital age. And what does this mean for seemingly dated forms of governing? Bets me I just enjoy ShtPosting on twitter.
+The internet is a hell-hole of humanity's most depraved desires self-reflected in form a black mirrored digital hell matrix. But GOD DAMN is it fun. [Welcome to the Internet](https://youtu.be/k1BneeJTDcU) Is the best representation of what the internet holds today. How is this information shaping our world? America might have been the top cultural melting-pot for a period of time. However what happens when our World's current cultures are exposed to unlimited consumption of information? How does this affect our youth, who seem to be far more literate with current social technologies then my peers. Peers that have grown up at the start of the digital age. And what does this mean for seemingly dated forms of governing? Beats me, I like ShtPosting on twitter.
 ###### Continues Next Blog
 
 
