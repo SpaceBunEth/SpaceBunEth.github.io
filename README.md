@@ -1,2 +1,2 @@
-![Banner-V3](/images/github_banner_Sprint1.png)
+![Banner-V3](images/spacebunblog_banner.png)
 
