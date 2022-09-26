@@ -25,6 +25,10 @@ What role does SpaceBun plan to take on in the information age? How does the con
 
 #### SideNote: 
 Hoping to work even harder this week. Looking forward to spending long days at Awesome Ink. 
+Music I like at the moment. 
+- [I Think I Like When It Rains](https://youtu.be/HpYdA-06jTc)
+- [Sierra Ferrell, "In Dreams" // GemsOnVHS](https://youtu.be6fPqmceCf90)
+- [I Walk The Line - Joaquin Phoenix Version](https://youtu.be/omBn7ze_hWA)
 <style>
 body {
     background-color:  #2b2821;
