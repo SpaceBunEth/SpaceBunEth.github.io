@@ -15,6 +15,8 @@
     - [Sep 16, 2022](blogPosts/OnboardingSprint4.md)
 5. Sprint 1, HTML, CSS, JS, State
     - [Sep 22, 2022](blogPosts/Sprint1-HTML-CSS-JS-State.md)
+6. Sprint 2, Vanilla-JS
+    - [Sep 30, 2022](blogPosts/Sprint2-Vanilla-JS.md)
  
  
 ---
