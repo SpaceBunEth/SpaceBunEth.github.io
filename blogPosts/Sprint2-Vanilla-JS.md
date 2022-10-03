@@ -11,9 +11,10 @@ I've been spending alot of time thinking about what I would like to get out of b
 Autumn is coming in, making the hot summer nights much cooler. The leaves are slowly showing signs of turning. This is my favorite time of the year. With the excitement of the holidays and seasonal coffees bring a extra sense of coziness to the chilly mornings, how could you not enjoy the end of a hot summer.
 The smell of cinnamon, cheap halloween costumes, and patchouli scented candles. Pumkins bigger then your head, scary movies late at night, the warmth and smell of a campfire at the end of a day. 
 
-But there is always a trade off, with the beauty this season brings it also takes away. The life of spring that seems to mature in the summer. Grows old in the fall and before we know it. The new year signals the end of this years festivites and achievements, but also the beginning of a melancholic stillness. Life and beauty goes dormant and the quiet months reminds us why Spring, Summer and Fall are so special. 
+But there is always a trade off, with the beauty this season brings it also takes away. The life of spring that seems to mature in the summer. Grows old in the fall and before we know it. The new year signals the end of this years festivities and achievements, but also the beginning of a melancholic stillness. Life and beauty goes dormant and the quiet months reminds us why Spring, Summer, and Fall are so special. 
 
-Much like the fall the process of changing is more fun then the end goal.
+Much like the fall the process of changing is more fun then the 
+conclusion.
 
 
 
