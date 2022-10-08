@@ -1,0 +1,9 @@
+.bgImg{
+    background-image: url('../contact-card/img/bg-img.png');
+    background-size: cover;
+    image-rendering: pixelated;
+}
+
+.mybg {
+    background-color: rgb(184, 150, 190);
+}
