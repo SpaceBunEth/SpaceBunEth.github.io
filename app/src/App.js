@@ -7,7 +7,7 @@ function App() {
   return (
     <main>
       
-      <div className='text-center bg-dark text-white p-5'>
+      <div className='text-center bg-dark text-white pt-2'>
       <h1 className='m-0' >SPACEBUN <img className='' src='images/spacebun_final_small_white.png' alt='...'/> SPACEBUN</h1>
       </div>
       
