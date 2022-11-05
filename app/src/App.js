@@ -1,4 +1,4 @@
-// import logo from './logo.svg';
+// import logo from 'images/spacebun_final_white.png';
 import './App.css';
 
 
@@ -6,7 +6,11 @@ import './App.css';
 function App() {
   return (
     <main>
-      <h1 className='text-center bg-dark text-white m-0'>SPACEBUN LOGO SPACEBUN</h1>
+      
+      <div className='text-center bg-dark text-white p-5'>
+      <h1 className='m-0' >SPACEBUN <img className='' src='images/spacebun_final_small_white.png' alt='...'/> SPACEBUN</h1>
+      </div>
+      
       <nav className="navbar navbar-expand-sm navbar-dark bg-dark" aria-label="Third navbar example">
     <div className="container-fluid">
       <a className="navbar-brand" href="#">SpaceBun Logo</a>
