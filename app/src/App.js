@@ -43,9 +43,15 @@ function App() {
       page={page}
       setPage={setPage}
       />
-      <Banner></Banner>
+
+      
       <div>{componentArr}</div>
-      <Footer></Footer>
+
+      <Footer
+      page={page}
+      setPage={setPage}
+      />
+
     </main>
   );
 }

@@ -1,6 +1,9 @@
+import Banner from "../banner/Banner";
+
 function Home(){
     return(
         <>
+        <Banner></Banner>
         {/* Start of body elements */}
             <div className="container marketing">
 
