@@ -1,4 +1,5 @@
-function Navbar(){
+function Navbar(props){
+    
     return(
         <>
               {/* nav bar */}
@@ -12,19 +13,19 @@ function Navbar(){
                 <div className="collapse navbar-collapse" id="navbarsExample03">
                     <ul className="navbar-nav me-auto mb-2 mb-sm-0">
                     <li className="nav-item">
-                        <a className="nav-link active" aria-current="page" href="#">Home</a>
+                        <a className="nav-link active" aria-current="page" onClick={() => {props.setPage('Home')}}>Home</a>
                     </li>
                     <li className="nav-item">
-                        <a className="nav-link active" aria-current="page" href="#">Blog</a>
+                        <a className="nav-link active" aria-current="page" onClick={() => {props.setPage('Blog')}}>Blog</a>
                     </li>
                     <li className="nav-item">
-                        <a className="nav-link active" aria-current="page" href="#">Portfolio</a>
+                        <a className="nav-link active" aria-current="page" onClick={() => {props.setPage('Portfolio')}}>Portfolio</a>
                     </li>
                     <li className="nav-item">
-                        <a className="nav-link active" aria-current="page" href="#">About Us</a>
+                        <a className="nav-link active" aria-current="page" onClick={() => {props.setPage('AboutUs')}}>About Us</a>
                     </li>
                     <li className="nav-item">
-                        <a className="nav-link active" aria-current="page" href="#">Settings</a>
+                        <a className="nav-link active" aria-current="page" onClick={() => {props.setPage('Settings')}}>Settings</a>
                     </li>
 
 
