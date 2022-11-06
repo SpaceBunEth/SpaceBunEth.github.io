@@ -2,7 +2,6 @@
 import './App.css';
 import React from 'react'
 import Navbar from './navbar/Navbar'
-import Banner from './banner/Banner'
 
 //Store These components in an Object content for pages
 import Home from './body/Home'
