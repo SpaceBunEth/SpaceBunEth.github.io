@@ -1,0 +1,16 @@
+.logo {
+    max-width: 100%;
+    height: 90%;
+    display: block; /* centers the image vertically within the div */
+    margin: auto;
+  }
+
+  .banner {
+    position: absolute; /* positions the image on top of the div */
+    z-index: 1;
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+  }

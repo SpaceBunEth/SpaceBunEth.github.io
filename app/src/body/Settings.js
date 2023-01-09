@@ -25,7 +25,7 @@ function Settings(){
                 <h2>Starter projects</h2>
                 <p>Ready to beyond the starter template? Check out these open source projects that you can quickly duplicate to a new GitHub repository.</p>
                 <ul class="icon-list ps-0">
-                <li class="d-flex align-items-start mb-1"><a href="https://github.com/twbs/bootstrap-npm-starter" rel="noopener" target="_blank">Bootstrap npm starter</a></li>
+                <li class="d-flex align-items-start mb-1"><a href="https://github.com/twbs/bootstrap-npm-starter" rel="noopener" >Bootstrap npm starter</a></li>
                 <li class="text-muted d-flex align-items-start mb-1">Bootstrap Parcel starter (coming soon!)</li>
                 </ul>
             </div>

@@ -1,3 +1,4 @@
+import "./Banner.css"
 function Banner(){
     return(
         <>
@@ -8,9 +9,9 @@ function Banner(){
 
                 <div className="card text-bg-dark border-0">
                     <img src="images/background_banner.png" className="card-img img-fluid"  alt="..."/>
-                    <div className="card-img-overlay">
-                        <h1 className='text-center'><img src="images/spacebun_logo_h-200px.png" alt='...'/></h1>
-                        <h3 className='text-center'>SpaceBun</h3>
+                    <div className="banner">
+                        <img className="logo" src="images/spacebun_logo_h-200px.png" alt='...'/>
+                        {/* <h3 className='text-center'>SpaceBun</h3> */}
                     </div>
                     </div>
 

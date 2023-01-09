@@ -31,7 +31,7 @@ function App() {
   const [page, setPage] = React.useState(pageCurrent)
 
   for(const key in objComp){
-    if(key == page){
+    if(key === page){
       componentArr.push(objComp[key])
     }
   }
