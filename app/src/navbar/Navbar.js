@@ -32,9 +32,9 @@ function Navbar(props){
                     <li className="nav-item">
                         <a className="nav-link active" type="button" aria-current="page" onClick={() => {props.setPage('AboutUs')}}>About Us</a>
                     </li>
-                    <li className="nav-item">
+                    {/* <li className="nav-item">
                         <a className="nav-link active" type="button" aria-current="page" onClick={() => {props.setPage('Settings')}}>Settings</a>
-                    </li>
+                    </li> */}
 
 
                     </ul>

@@ -15,7 +15,7 @@ function Footer(props){
                 <li className="nav-item"><a type='button' className="nav-link px-2 text-muted" onClick={() => {props.setPage('Blog')}}>Blog</a></li>
                 <li className="nav-item"><a type='button' className="nav-link px-2 text-muted" onClick={() => {props.setPage('Portfolio')}}>Portfolio</a></li>
                 <li className="nav-item"><a type='button' className="nav-link px-2 text-muted" onClick={() => {props.setPage('AboutUs')}}>About Us</a></li>
-                <li className="nav-item"><a type='button' className="nav-link px-2 text-muted" onClick={() => {props.setPage('Settings')}}>Settings</a></li>
+                {/* <li className="nav-item"><a type='button' className="nav-link px-2 text-muted" onClick={() => {props.setPage('Settings')}}>Settings</a></li> */}
                 </ul>
             </footer>
             </div>
