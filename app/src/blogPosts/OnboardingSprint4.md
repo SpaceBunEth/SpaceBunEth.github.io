@@ -19,7 +19,7 @@ The internet is a hell-hole of humanity's most depraved desires self-reflected i
 2. What hindered your progress during Onboarding?
     > Self doubt, 90% of it feels like a mental game. Having to deal with doubtful thoughts like, "Am I cut out for this?" and "It's a simple problem why is this so hard for me to understand", or "This is the 5th night in a row I've ordered pizza. I think I have a problem". It can be overwhelming at times.
 3. How did you overcome challenges during Onboarding?
-    > [OnboardingSprint2](/blogPosts/OnboardingSprint4.md) Line 14
+    > OnboardingSprint2 Line 14
 
 ## Self Reflection
 1. What do we want to keep doing?
@@ -27,7 +27,7 @@ The internet is a hell-hole of humanity's most depraved desires self-reflected i
 2. What do we want to stop doing?
     > Worrying, I don't want learning something new to be as stressful as it has been in the past. They say leasons get harder as you get older but I still find learning the first time to be hardest despite age.
 3. What do we want to write into our DNA and do forever?
-    >Last blog [OnboardingSprint3](/blogPosts/OnboardingSprint3.md) I wrote. "Healthy Habits" This time around I would say Balance, I feel those two things go hand'n hand. You can't really have healthy habits if they are not balanced with one another. 
+    >Last blog OnboardingSprint3 I wrote. "Healthy Habits" This time around I would say Balance, I feel those two things go hand'n hand. You can't really have healthy habits if they are not balanced with one another. 
 4. What do we want to tell our "prior to Bootcamp" self? 
     >You're gonna wanna learn how to meal prep, the pizza deliverly guy knows you personaly now.
 

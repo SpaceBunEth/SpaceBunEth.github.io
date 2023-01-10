@@ -19,16 +19,15 @@ function App() {
   //   pageStates: ['Home','Blog','Portfolio','About Us','Settings']
   // }
   const pageCurrent = 'Home'
-  const objComp = {
-    Home: <Home/>,
-    Blog: <Blog/>,
-    Portfolio: <Portfolio/>,
-    AboutUs: <AboutUs/>,
-    Settings:<Settings/>
-  }
-
   const componentArr = []
   const [page, setPage] = React.useState(pageCurrent)
+  const objComp = {
+    Home: <Home page={page} setPage={setPage} key="homepage"/>,
+    Blog: <Blog key="blogpage"/>,
+    Portfolio: <Portfolio key="portfoliopage"/>,
+    AboutUs: <AboutUs page={page} setPage={setPage} key="aboutuspage"/>,
+    Settings:<Settings key="settingspa"/>
+  }
 
   for(const key in objComp){
     if(key === page){

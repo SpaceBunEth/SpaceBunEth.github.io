@@ -6,7 +6,7 @@ function Navbar(props){
     return(
         <>
               {/* nav bar */}
-            <nav className="navbar navbar-expand-sm navbar-dark bg-dark" aria-label="Third navbar example">
+            <nav id="nav-top" className="navbar navbar-expand-sm navbar-dark bg-dark" aria-label="Third navbar example">
                 <div className="container-fluid">
                 {/* <a>spacebun</a>
                 <img className="logo" src="images/spacebun_logo_h-200px.png" alt='...'/>  */}

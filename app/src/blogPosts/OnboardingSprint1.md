@@ -58,10 +58,10 @@ git push
 <style type="text/css">
 
 body {
-    font-family: monospace !important; 
+    /* font-family: monospace !important;  */
     background-color: #f0f6f0;
     color: #222323;
-    font-size: 20px;
+    /* font-size: 20px; */
 }
  img {
     border: 5px solid black;
